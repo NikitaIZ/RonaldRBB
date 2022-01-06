@@ -1,6 +1,10 @@
 # **Ronald Bello**
 
+   <img src="https://raw.githubusercontent.com/RonaldRBB/RonaldRBB/gh-pages/cv_perfil.jpg" style="width: 300px; position: center" >
+
 ## **🤳 Datos personales**
+
+---
 
 ### **📋 Información**
 
@@ -16,9 +20,13 @@
 
 ## **👨‍💻 Sobre mi**
 
-Soy Ingeniero de Sistemas graduado en el [Instituto Politecnico Santiago Mariño](http://www.psmporlamar.edu.ve/) en Venezuela en Abril de 2019, pero cuento con experiencia en el campo adquirida desde Septiembre de 2016. He trabajado en distintos proyectos para varias empresas haciendo uso de varios lenguajes de programacion tales como PHP, Python, Javascript y Mysql, asi como también haciendo uso de distintos frameworks como React, Node.js, y Bootstrap.
+---
+
+Soy Ingeniero de Sistemas graduado en el [Instituto Politecnico Santiago Mariño](http://www.psmporlamar.edu.ve/) en Venezuela en Abril de 2019, pero cuento con experiencia en el campo adquirida desde Septiembre de 2016. He trabajado en distintos proyectos para varias empresas haciendo uso de varios lenguajes de programación tales como PHP, Python, Javascript y Mysql, asi como también haciendo uso de distintos frameworks como React, Node.js, y Bootstrap.
 
 ## **👨‍💼 Formación profesional**
+
+---
 
 ### **💼 Desarrollador Full Stack**
 
@@ -105,6 +113,8 @@ Implementación y mantenimiento de [MailWizz](https://www.mailwizz.com/) (herram
 -   Manejo de Active Directory.
 
 ## **👨‍🎓 Formación académica**
+
+---
 
 ### **🎓 Formación universitaria**
 
