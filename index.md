@@ -1,6 +1,6 @@
 # **Ronald Bello**
 
-   <img src="https://raw.githubusercontent.com/RonaldRBB/RonaldRBB/gh-pages/cv_perfil.jpg" style="width: 300px; position: center" >
+   <img src="https://raw.githubusercontent.com/RonaldRBB/RonaldRBB/main/cv_perfil.jpg" style="width: 300px; position: center" >
 
 ## **🤳 Datos personales**
 
